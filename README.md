@@ -2,7 +2,7 @@
 
 ## Installation
 1. **Clone the Repository** </br>
-git clone https://github.com/yourusername/your-repository.git </br>
+git clone https://github.com/IamRimuruTempest/laravel-crud-users.git </br>
 cd your-repository
 
 2. **Install PHP Dependencies** </br>
